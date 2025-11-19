@@ -119,7 +119,7 @@ watch(
       <header class="flex flex-col gap-2 border-b border-slate-800 pb-4 md:flex-row md:items-center md:justify-between">
         <div>
           <h1 class="text-2xl font-semibold tracking-tight text-slate-50 md:text-3xl">
-            Efluwa Seeds
+            Omni Seed
           </h1>
           <p class="mt-1 text-sm text-slate-400 max-w-xl">
             Importe rapidement des fichiers JSON dans Firestore (Firebase) pour prototyper et tester tes interfaces
