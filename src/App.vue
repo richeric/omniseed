@@ -234,9 +234,9 @@ watch(
       </main>
 
       <footer class="mt-4 border-t border-slate-800 pt-3 text-xs text-slate-500 flex items-center justify-between">
-        <p>Efluwa Seeds · Prototype Firebase</p>
+        <p>Omni Seed · Prototype Firebase</p>
         <p class="text-[11px]">
-          Pensé pour accélérer le prototypage AGEL / GAEL · Open source friendly
+          Pensé pour accélérer le prototypage des projets web · Open source friendly
         </p>
       </footer>
     </div>
